@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
-**Miraclemin/Miraclemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xingyaoww/xingyaoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 Hi, I'm Hanmin  
+Algorithm Engineer @ JD.com | 4 yrs exp  
+
+**Stack:** PyTorch, TensorFlow, Python, JavaScript 
+
+- 💻 Checkout my website [here](https://www.illusionjourney.com/).
+ 
+![Hanmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miraclemin&show_icons=true)
