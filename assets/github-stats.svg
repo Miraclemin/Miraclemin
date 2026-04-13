@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="460" height="220" viewBox="0 0 460 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Hanmin GitHub Stats</title>
+  <desc id="desc">Placeholder stats card until the first GitHub Actions run completes.</desc>
+  <rect x="12" y="12" width="436" height="196" rx="20" fill="#0D1117" stroke="#30363d"/>
+  <text x="36" y="62" style="font:700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill:#f0f6fc;">Hanmin GitHub Stats</text>
+  <text x="36" y="98" style="font:400 16px 'Segoe UI', Ubuntu, Sans-Serif; fill:#c9d1d9;">The first GitHub Actions run will generate fresh profile stats here.</text>
+  <text x="36" y="132" style="font:400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill:#8b949e;">Workflow: .github/workflows/update-github-stats.yml</text>
+  <text x="36" y="164" style="font:400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill:#8b949e;">Source: GitHub API</text>
+</svg>
