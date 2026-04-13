@@ -7,4 +7,4 @@ Algorithm Engineer @ JD.com | 4 yrs exp as Advertising Algorithm Engineer (2021-
 
 - 💻 Checkout my website [here](https://www.illusionjourney.com/).
  
-![Hanmin's GitHub stats](./assets/github-stats.svg)
+![Hanmin's GitHub stats](https://github-readme-stats-six-sigma-62.vercel.app/api?username=Miraclemin&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github)
